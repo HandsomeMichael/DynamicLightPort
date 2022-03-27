@@ -1,0 +1,4 @@
+displayName = Dynamic Light 1.3 Backport
+author = Originally made by Lafiel
+version = 0.1
+side = Client
